@@ -1,3 +1,6 @@
+## Hi, I'm Nicholas Sohn!
+### Welcome to my Github
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sohnnick.visitor-badge)
 
 
