@@ -6,8 +6,8 @@
 
 Check out some of my favorite projects below:
 <br>
-• 💸 <a href='https://github.com/sohnnick/RNN-Stock-Price-Predictor' target="_blank"> Stock Price Predictor </a>
+• 💸 <a href='https://github.com/sohnnick/RNN-Stock-Price-Predictor'> Stock Price Predictor </a>
 <br>
-• 🏦 <a href='https://drive.google.com/file/d/1Rm-IV9xxzfsXOsnsmGiMTjUhAU3FgOT_/view' target="_blank"> Bank Direct Marketing Analysis </a>
+• 🏦 <a href='https://drive.google.com/file/d/1Rm-IV9xxzfsXOsnsmGiMTjUhAU3FgOT_/view'> Bank Direct Marketing Analysis </a>
 <br>
-• 🌭 <a href='https://github.com/sohnnick/Food-Image-Classifier-Hotdog-Not-Hotdog-' target="_blank"> Hotdog Not Hotdog App (Work in Progress) </a>
+• 🌭 <a href='https://github.com/sohnnick/Food-Image-Classifier-Hotdog-Not-Hotdog-'> Hotdog Not Hotdog App (Work in Progress) </a>
