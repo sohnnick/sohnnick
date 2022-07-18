@@ -6,7 +6,7 @@
 
 Check out some of my favorite projects below:
 <br>
-💸 <a href='https://github.com/sohnnick/RNN-Stock-Price-Predictor'> Stock Price Predictor </a>
+💸 <a href='https://github.com/sohnnick/BI-Stock-Recommender'> BI Stock Recommender </a>
 <br>
 🏦 <a href='https://drive.google.com/file/d/1Rm-IV9xxzfsXOsnsmGiMTjUhAU3FgOT_/view'> Bank Direct Marketing Analysis </a>
 <br>
