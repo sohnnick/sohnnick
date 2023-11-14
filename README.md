@@ -6,7 +6,7 @@
 
 Check out some of my favorite projects below:
 <br>
-🤑: <a href='https://github.com/sohnnick/TradingBotExplore'> Trading Bot </a>
+🤑 <a href='https://github.com/sohnnick/TradingBotExplore'> Trading Bot </a>
 <br>
 :basketball: <a href='https://github.com/sohnnick/NBA-Fake-Tweet-Generator'> NBA Fake Tweet Generator with GPT-2 </a>
 <br>
