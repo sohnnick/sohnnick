@@ -5,9 +5,8 @@
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohnnick)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out some of my favorite projects below:
+🤑: <a href='https://github.com/sohnnick/TradingBotExplore'> Trading Bot </a>
 <br>
-:basketball: <a href='https://github.com/sohnnick/NBA-Fake-Tweet-Generator'> NBA Fake Tweet Generator </a>
+:basketball: <a href='https://github.com/sohnnick/NBA-Fake-Tweet-Generator'> NBA Fake Tweet Generator with GPT-2 </a>
 <br>
 💸 <a href='https://github.com/sohnnick/BI-Stock-Recommender'> BI Stock Recommender </a>
-<br>
-🌭 <a href='https://github.com/sohnnick/Food-Image-Classifier-Hotdog-Not-Hotdog-'> Hotdog Not Hotdog App</a>
